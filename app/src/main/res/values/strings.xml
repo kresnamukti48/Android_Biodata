@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Perkenalan</string>
+    <string name="biodata_saya">Biodata Saya</string>
+    <string name="keinginan_menjadi_programmer_internasional">Keinginan : Menjadi Programmer internasional</string>
+    <string name="hobby_bermain_game">Hobby : Bermain Game</string>
+    <string name="no_hp_082257534227">No HP : 082257534227</string>
+    <string name="alamat_jl_jembawan_3_4b_45">Alamat : JL.Jembawan 3 4b/45</string>
+    <string name="tempat_tanggal_lahir_malang_05_02_2004">Tempat Tanggal Lahir : Malang, 05-02-2004</string>
+    <string name="name_kresna_mukti_w">Name : Kresna Mukti W</string>
+</resources>
